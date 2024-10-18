@@ -1,4 +1,4 @@
-!()[src/main/resources/assets/decoration/logo.png]
+![](src/main/resources/assets/decoration/logo.png)
 ResourceRush is a classic tower game. You purchase towers that generate resources. These resources are collected by 
 carts as they travel along the path. Your goal is to optimize resource generation to achieve victory.
 
